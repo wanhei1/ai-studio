@@ -1,0 +1,6 @@
+{
+  "name": "超级个体 - AI 需求交付平台",
+  "description": "帮助产品经理通过对话方式将需求自动转化为代码变更、测试并提交PR的AI需求交付平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
